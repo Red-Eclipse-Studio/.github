@@ -4,8 +4,8 @@ Red Eclipse Studio is a group of people working on a game called [MOONLITE](http
 
 This organization is for internal development on MOONLITE and several other development tools we have created for it.
 
-For the public repos, please visit @Moonlite-Game
+For the public repos, please visit [here](https://github.com/moonlite-game/)
 
 Follow us on our socials:
-[Twitter](https://twitter.com/redeclipsestdio)
-[YouTube](https://youtube.com/moonlite_developers)
+- [Twitter](https://twitter.com/redeclipsestdio)
+- [YouTube](https://youtube.com/moonlite_developers)
