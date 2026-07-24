@@ -8,4 +8,4 @@ For the public repos, please visit [here](https://github.com/moonlite-game/)
 
 Follow us on our socials:
 - [Twitter](https://twitter.com/redeclipsestdio)
-- [YouTube](https://youtube.com/moonlite_developers)
+- [YouTube](https://youtube.com/@moonlite_developers)
